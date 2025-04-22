@@ -1,7 +1,7 @@
 bqplot==0.12.44
 ipython==8.12.3
 ipywidgets==8.1.6
-numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp311-cp311-linux_x86_64.whl#sha256=2f550fcfe63acca79d636ba578e32b7ec2999e0f9cd88120af57d1497ad15890
-pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1726878443020/work
+numpy
+pandas
 voila==0.5.8
 
